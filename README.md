@@ -1,6 +1,6 @@
 # From idea to launch 1 (a revision and continuation of fitl)
 
-<p>The first files of the <a href="http://courses.selftaughtcoders.com/courses/from-idea-to-launch" target="_blank">From Ideas to Launch</a> course from Alex Coleman using Laravel.</p>
+<p>The first files of the <strong>From Ideas to Launch</strong> course from Alex Coleman using Laravel.</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
